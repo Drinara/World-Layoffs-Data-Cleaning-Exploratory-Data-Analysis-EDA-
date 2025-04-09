@@ -223,3 +223,6 @@ WHERE ranking <= 5;
 ## **Conclusion**
 This set of SQL queries provides a comprehensive approach to data cleaning and exploratory data analysis for global layoffs. By aggregating data across multiple dimensions—companies, industries, countries, and time periods—insights into global workforce trends can be derived, helping stakeholders make informed decisions.
 
+## **Files Present**
+`Exploratory Data Analysis.sql`
+`layoffs.csv`
