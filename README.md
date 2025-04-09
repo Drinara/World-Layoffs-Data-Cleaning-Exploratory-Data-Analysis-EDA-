@@ -1,10 +1,4 @@
-# World-Layoffs-Data-Cleaning-Exploratory-Data-Analysis-EDA-
-World Layoffs Data Cleaning &amp; Exploratory Data Analysis (EDA) With MYSQL
-Here's how you can structure the SQL queries into a **README** format:
-
----
-
-# **World Layoffs Data Cleaning & Exploratory Data Analysis (EDA)**
+# **World Layoffs Data Cleaning & Exploratory Data Analysis (EDA) with MYSQL**
 
 ## **Overview**
 This project involves cleaning a large layoffs dataset and performing exploratory data analysis (EDA) to uncover key patterns and trends in global layoffs. The analysis focuses on various factors such as company layoffs, industry trends, country-specific layoffs, and temporal patterns (year, month, etc.). SQL queries are used for both data cleaning and in-depth analysis.
